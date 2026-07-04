@@ -3,7 +3,7 @@
 <h2>Dashboard Preview</h2>
 
 <p align="center">
-  <img src="dashboard.png" alt="Cookie Company Dashboard" width="900">
+  <img src="dashboard_filtered_.png" alt="Cookie Company Dashboard" width="900">
 </p>
 
 ## Project Overview
