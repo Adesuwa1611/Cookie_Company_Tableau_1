@@ -13,7 +13,8 @@ Clean and user-friendly dashboard design
 
 Tools Used:
 
-Tableau Public
+Tableau Desktop
+
 Microsoft Excel (data source)
 
 This project demonstrates skills in data visualization, dashboard design, business intelligence, and data analysis using Tableau.
