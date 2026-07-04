@@ -1,5 +1,11 @@
 # Cookie_Company_Tableau_1
 
+<h2>Dashboard Preview</h2>
+
+<p align="center">
+  <img src="dashboard.png" alt="Cookie Company Dashboard" width="900">
+</p>
+
 This project is an interactive Tableau dashboard built using Cookie Company sales data. It provides a clear overview of business performance through visualizations of sales, profit, customer trends, product performance, and regional analysis. The dashboard enables users to explore key metrics using interactive filters and charts, making it easier to identify sales patterns, top-performing products, and business opportunities.
 
 Key Features:
